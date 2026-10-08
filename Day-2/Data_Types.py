@@ -1,0 +1,12 @@
+#integer
+a=5075
+print(a)
+#float
+b=3.5
+print(b)
+#string
+c="Ramya"
+print(c)
+#boolean
+print(True)
+print(False)
